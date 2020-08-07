@@ -2,6 +2,6 @@
 my first app
 
 1. amal
-2. naveen
+2. pavan
 
 ## Gajavalli
